@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "email": "test@mail.ru",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "newtest@mail.ru",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "cover": "https://www.komar.de/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/8/-/8-983_seaside_ma.jpg",
+      "title": "Test Post",
+      "description": "Test description Test description Test description Test description Test description Test description Test description Test description",
+      "date": "2023-01-10, 16:01"
+    },
+    {
+      "id": 2,
+      "cover": "https://www.komar.de/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/8/-/8-983_seaside_ma.jpg",
+      "title": "New",
+      "description": "Test description Test description Test description Test description Test description Test description Test description Test description",
+      "date": "2023-01-12, 10:09"
+    }
+  ]
+}
